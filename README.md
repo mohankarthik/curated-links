@@ -45,7 +45,8 @@
 * MIT's deep learning for [Self Driving Cars course](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) is their take on term 1. Covers DL is detail, and includes reinforcement learning too! Definitely worth a watch
 * With autonomous driving slowly taking over, most car manufactures are still in the process and the process could typically take a decade before fully autonomous cars comes in. Until then, it's only going to be partially autonomous, where the car might have to hand over to the driver periodically when it runs into a difficult situation (snow, etc...). At such points, it's very important for the car to ensure (constantly) that the driver is alert. A great [application](https://www.youtube.com/watch?v=uGvvCgqYmpY) here is drowsiness / fatigue detection using deep learning and computer vision.
 * After we put in all this intelligence in the car, how easy is it going to be for hackers to hack the car and cause mayhem. We need really good [security systems](https://www.wired.com/2017/04/ubers-former-top-hacker-securing-autonomous-cars-really-hard-problem/) on board.
-* A fantastic [overview](https://medium.com/@ford/what-it-takes-to-be-a-self-driving-leader-71928b94870e) on their SDC from Ford! 
+* A fantastic [overview](https://medium.com/@ford/what-it-takes-to-be-a-self-driving-leader-71928b94870e) on their SDC from Ford!
+* An amazing [talk](https://www.youtube.com/watch?v=LSX3qdy0dFg) by Sacha Arnoud (Directory of Engineering at Waymo) at MIT titled "The rise of machine learning in self-driving cars."
 
 ### Gaming
 * A fantastic [survey](https://arxiv.org/pdf/1708.07902.pdf) on various deep learning techniques used in building AIs for video gaming, starting from minecraft to Blizzard Entertainment's Starcraft II.
@@ -58,6 +59,7 @@
 
 ### Medical
 * A fantastic [write-up](http://juliandewit.github.io/kaggle-ndsb2017/) on a solution to lung cancer detection from 3D CT scans. Inference from 3D systems are significantly more complicated compared to 2D (say images), so this is a very interesting write-up. Also it covers a lot of fundamentals on machine learning, such as handling data (preprocessing), model selection, along with the code itself.
+* [Learn](https://research.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html) how deep learning makes it possible to accurately assess cardiovascular risk factors using retinal images
 
 ### Others
 * A very nice [video](https://www.youtube.com/watch?v=iOWamCtnwTc&app=desktop) on how a neural net learns fluid dynamics.
