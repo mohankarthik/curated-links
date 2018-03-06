@@ -6,7 +6,8 @@
 
 ### Reinforcement Learning
 * Open AI has announced the next set of [research problems](https://blog.openai.com/requests-for-research-2/) that they want to solve. This is a fantastic way to get into deep learning and reinforcement learning and really push your boundaries. And you'll be working along side a really amazing community, so the learning opportunities are fantastic
-* Nervana Systems released [Coach](http://coach.nervanasys.com/), a Deep RL library. 
+* Nervana Systems released [Coach](http://coach.nervanasys.com/), a Deep RL library.
+* In this [blog post](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html) series Johannes takes a closer look at inverse reinforcement learning (IRL) which is the field of learning an agent's objectives, values, or rewards by observing its behavior.
 
 ### Natural Language Processing (NLP)
 * And a [remote NLP study group](http://forums.fast.ai/t/remote-nlp-focused-study-group/10768) has started. A great way to meet like minded folks and learn more about NLP if you are interested. Link: 
@@ -38,6 +39,7 @@
 * This is a fantastic [paper](https://openreview.net/pdf?id=Sy8gdB9xx) from MIT / GOOGLE. It talks about how neural nets generalise. If you are not yet familiar with neural nets and CNNs, I'd suggest that you bookmark this paper and read it after you gain an understanding of NNs. Understanding how neural nets generalize is a key concept to understand how to push NNs into the next generation, and in that I felt this paper is excellent! 
 * Trying to define [consciousness](http://www.bbc.com/news/science-environment-39482345). And this is a very interesting topic, because essentially with deep learning / AI / Robotics, we are essentially trying to mimic humans, and consciousness is a very important part of that.
 * Tensorflow is one of the most popular deep learning frameworks and it incorporates TensorBoard, a great visualizer to debug your models. But using Tensorboard isn't always obvious and this nice [article](https://medium.com/towards-data-science/visualizing-your-model-using-tensorboard-796ebb73e98d) does a great job explaining the "how to".
+* Google introduced ["Learn with Google AI"](https://ai.google/education#?modal_active=none) — a set of educational resources developed by Machine Learning (ML) experts at the company, for people to learn about concepts, develop skills and apply Artificial Intelligence (AI) to real-world problems.
 
 ## Applications
 ### Self Driving Cars
@@ -68,4 +70,4 @@
 * Going about solving [social problems](https://hbr.org/2016/12/a-guide-to-solving-social-problems-with-machine-learning
 ) using machine learning from Harvard.
 * An AI that uses [neural networks](https://blog.acolyer.org/2017/03/29/deepcoder-learning-to-write-programs/) to write programs and solve programming challenges. This is a fantastic step forward because it's the start of programs being able to write out simpler programs
-* [Astronomers](http://www.nature.com/news/astronomers-explore-uses-for-ai-generated-images-1.21398) using AI generated images (using deep learning): 
+* [Astronomers](http://www.nature.com/news/astronomers-explore-uses-for-ai-generated-images-1.21398) using AI generated images (using deep learning):
