@@ -25,6 +25,7 @@
 * Neural net [learns](https://arxiv.org/abs/1703.06891) "Dance Dance Revolution (DDR)"
 * A fun [project](https://github.com/jerpint/rubiks_cube_convnet) to solve a rubicks cube using a convolutional neural net.
 * Cool piece of [code](https://github.com/oarriaga/face_classification) using tensorflow / Keras and OpenCV to do emotion / gender classification from the face of a person.
+* And a recent [blog](https://research.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html) from Google brain talks about allowing CNNs to evolve on their own and various different approaches we can take, so as to automatically generate models without having to hand craft or minimally hand craft things.
 
 ## Generic
 * DeepMind's new paper demonstrates how deep neural networks can be extended to generalize visually and symbolically. [Blog](https://deepmind.com/blog/learning-explanatory-rules-noisy-data/); [Paper](http://www.jair.org/media/5714/live-5714-10391-jair.pdf)
@@ -40,6 +41,7 @@
 * Trying to define [consciousness](http://www.bbc.com/news/science-environment-39482345). And this is a very interesting topic, because essentially with deep learning / AI / Robotics, we are essentially trying to mimic humans, and consciousness is a very important part of that.
 * Tensorflow is one of the most popular deep learning frameworks and it incorporates TensorBoard, a great visualizer to debug your models. But using Tensorboard isn't always obvious and this nice [article](https://medium.com/towards-data-science/visualizing-your-model-using-tensorboard-796ebb73e98d) does a great job explaining the "how to".
 * Google introduced ["Learn with Google AI"](https://ai.google/education#?modal_active=none) — a set of educational resources developed by Machine Learning (ML) experts at the company, for people to learn about concepts, develop skills and apply Artificial Intelligence (AI) to real-world problems.
+* A really awesome product from Deep Cognition, the [deep learning studio](http://deepcognition.ai/desktop/) includes features like a full-featured GUI model editor, graphical training dashboard. And the best part is that it's free.
 
 ## Applications
 ### Self Driving Cars
