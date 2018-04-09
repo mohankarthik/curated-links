@@ -73,3 +73,4 @@
 ) using machine learning from Harvard.
 * An AI that uses [neural networks](https://blog.acolyer.org/2017/03/29/deepcoder-learning-to-write-programs/) to write programs and solve programming challenges. This is a fantastic step forward because it's the start of programs being able to write out simpler programs
 * [Astronomers](http://www.nature.com/news/astronomers-explore-uses-for-ai-generated-images-1.21398) using AI generated images (using deep learning):
+* Microsoft has taken a unique approach of using [NLP to predict stock prices](https://www.microsoft.com/developerblog/2017/12/04/predicting-stock-performance-deep-learning/). 
